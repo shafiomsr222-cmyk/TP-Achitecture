@@ -1,0 +1,12 @@
+.chart-symbol.series0 {
+    -fx-background-color: #4CAF50; /* Vert */
+    -fx-shape: "M2,0 L5,4 L8,0 L10,0 L10,2 L6,5 L10,8 L10,10 L8,10 L5,6 L2,10 L0,10 L0,8 L4,5 L0,2 L0,0 Z"; /* croix */
+    -fx-padding : 5px
+}
+
+.chart-symbol.series1 {
+    -fx-background-color: #2196F3; /* Bleu */
+    -fx-shape: "M 0 0 A 1 1 0 0 0 2 0 A 1 1 0 0 0 0 0 Z"; /* cercle */
+    -fx-padding : 5px
+}
+
